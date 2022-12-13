@@ -5,8 +5,8 @@
   readln(s);
   readln(ss);
   i := 1;
-  l1 := length(s);
-  l2 := length(ss);
+  ls := length(s);
+  lss := length(ss);
   f := false;
   while i <= ls - lss + 1 do
   begin
